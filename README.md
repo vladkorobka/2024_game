@@ -14,8 +14,7 @@ Let's play in the 2048 game!
 <li>The GAME OVER message should be shown if there are no more available moves.</li>
 </ol>
 
-![reference](https://github.com/vladkorobka/2048_game/assets/12400717/b0e5aa5d-3862-4af5-9891-7f3a1220b33f)
-
-
 [DEMO](https://vladkorobka.github.io/2048_game/)<br>
 [Reference](https://play2048.co/)<br>
+
+![reference](https://github.com/vladkorobka/2048_game/assets/12400717/b0e5aa5d-3862-4af5-9891-7f3a1220b33f)
